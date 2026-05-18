@@ -72,14 +72,6 @@ A full-stack MERN application designed for efficient inventory and transaction m
 
 ---
 
-#  Live Demo
-
-## Frontend
-https://your-frontend-link.vercel.app
-
-## Backend API
-https://your-backend-link.onrender.com
-
 ---
 
 #  Project Structure
@@ -315,19 +307,6 @@ The project was tested for:
 - Inventory updates
 - API response handling
 - Responsive UI behavior
-
----
-
-#  Deployment
-
-## Frontend Deployment
-- Vercel
-
-## Backend Deployment
-- Render
-
-## Database Hosting
-- MongoDB Atlas
 
 ---
 
